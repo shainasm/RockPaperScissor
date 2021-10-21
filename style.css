@@ -7,6 +7,7 @@
   font-family: "Roboto", sans-serif;
   background-color: rgb(5, 5, 54);
   color: white;
+  border-style: none;
 }
 
 #background {
@@ -21,4 +22,13 @@ div {
 
 .bg {
   background-color: brown;
+}
+
+.images {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  border-radius: 50px 50px 50px 50px;
+  cursor: pointer;
+  margin: 20px;
 }
